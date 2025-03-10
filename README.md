@@ -154,4 +154,4 @@ This project is licensed under the MIT License. 📝
 
 ## ✨ Demo
 
-Check out the live demo here: [YouTube Clone Demo](https://youtube-clone.vercel.app) 🎥
+Check out the live demo here: [YouTube Clone Demo](https://you-tube-clone-five-liart.vercel.app/) 🎥
